@@ -1,0 +1,9 @@
+train: F:/Masters/Internship and thesis/DOTA V1/images/train
+val: F:/Masters/Internship and thesis/DOTA V1/images/validation
+test: F:/Masters/Internship and thesis/DOTA V1/images/test
+
+ nc: 15  
+names: ['Small_Vehicle', 'Large_Vehicle', 'plane', 'storage_tank', 'ship',
+        'Swimming_pool', 'Harbor', 'tennis_court', 'Ground_Track_Field',
+        'Soccer_ball_field', 'baseball_diamond', 'Bridge', 'basketball_court',
+        'Roundabout', 'Helicopter']

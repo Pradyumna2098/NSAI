@@ -1,0 +1,19 @@
+{
+    "categories": [
+        {"id": 1, "name": "plane"},
+        {"id": 2, "name": "ship"},
+        {"id": 3, "name": "storage_tank"},
+        {"id": 4, "name": "baseball_diamond"},
+        {"id": 5, "name": "tennis_court"},
+        {"id": 6, "name": "basketball_court"},
+        {"id": 7, "name": "Ground_Track_Field"},
+        {"id": 8, "name": "harbor"},
+        {"id": 9, "name": "Bridge"},
+        {"id": 10, "name": "large_vehicle"},
+        {"id": 11, "name": "small_vehicle"},
+        {"id": 12, "name": "helicopter"},
+        {"id": 13, "name": "roundabout"},
+        {"id": 14, "name": "soccer_ball_field"},
+        {"id": 15, "name": "swimming_pool"}
+    ]
+}
